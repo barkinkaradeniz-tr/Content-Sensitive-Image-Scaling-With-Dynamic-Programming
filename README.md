@@ -16,3 +16,6 @@ When the image scaling occurs, deleted pixels are shown as a yellow thunder.
 
 <img src="/img/2.png" width="400">
 
+## Execute
+
+The main method is in "/src/ContentAwareImageResizing.java"
