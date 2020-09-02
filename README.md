@@ -12,7 +12,7 @@ When the image scaling occurs, deleted pixels are shown as a yellow thunder.
 
 ## Example Image 
 
-<img src="/img/1.png" width="200">
+<img src="/img/1.png" width="400">
 
-<img src="/img/2.png" width="200">
+<img src="/img/2.png" width="400">
 
