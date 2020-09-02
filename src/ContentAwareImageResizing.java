@@ -138,9 +138,9 @@ public class ContentAwareImageResizing {
 
     public static void main(String[] args) throws java.io.FileNotFoundException {
 //        demoPictureImage(args[0]);
-//        demoPictureImage("640px-Broadway_tower_edit.jpg");
-          demoPictureImage("640px-foto_2017_07_30_202914-cropped.jpg");
-//           demoMatrixImage("testImage.txt");
+//        demoPictureImage("./img/640px-Broadway_tower_edit.jpg");
+          demoPictureImage("./img/640px-foto_2017_07_30_202914-cropped.jpg");
+//           demoMatrixImage("./img/testImage.txt");
     }
 }
 
