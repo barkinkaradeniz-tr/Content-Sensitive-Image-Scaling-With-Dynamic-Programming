@@ -10,7 +10,7 @@ Following techniques were used to implement this tasks:
 
 When the image scaling occurs, deleted pixels are shown as a yellow thunder.
 
-## Example Image 
+## Example Images
 
 <img src="/img/1.png" width="400">
 
